@@ -20,6 +20,9 @@ class Sidebar extends Component {
                     </a> 
                     <br />
                     701-730-8431
+                    <br />
+
+                    <a href="https://vishal7313.github.io/portfolio/" rel="opener noreferrer" target="_blank"> https://vishal7313.github.io/portfolio/</a>
                 </p>
 
                 <ul className="sidebar-nav">
