@@ -6,6 +6,7 @@ import "animate.css/animate.min.css";
 import { GoProject } from 'react-icons/go'
 import { FaArrowCircleDown } from 'react-icons/fa'
 import Hello from '../images/profile.jpg'
+import Hello1 from '../images/profile1.jpg'
 import Resume from '../docs/Vishal_Ranjan_Resume.pdf'
 import Pencil from '../images/pencil.jpg';
 
@@ -15,7 +16,7 @@ class CarouselImages extends Component {
             <div className={classes.carousel_container} id="start">
                 <Carousel className={classes.carousel} dynamicHeight infiniteLoop={true} interval={6000} useKeyboardArrows={true} transitionTime={1700} emulateTouch showArrows={false} autoPlay showStatus={false} showThumbs={false} >
                     <div className={classes.image_container} >
-                        <img className={classes.image} src={Hello} alt="myImage" />
+                        <img className={classes.image} src={Hello1} alt="myImage" />
                         <div className={classes.h1}>
                             <a href={Resume} rel="opener noreferrer" target="_blank"> View Resume <FaArrowCircleDown /></a>
                         </div>
