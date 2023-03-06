@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.26125bd4.css",
-    "main.js": "/portfolio/static/js/main.7b15d556.js",
+    "main.js": "/portfolio/static/js/main.dfdf3c94.js",
     "static/media/Google_Earth_Report.pdf": "/portfolio/static/media/Google_Earth_Report.c19f3702a84b75c36e3a.pdf",
     "static/media/Vishal_Ranjan_Resume.pdf": "/portfolio/static/media/Vishal_Ranjan_Resume.bd228117629e4af6278b.pdf",
     "static/media/profile.jpg": "/portfolio/static/media/profile.1394d4731015158e9af7.jpg",
+    "static/media/profile1.jpg": "/portfolio/static/media/profile1.405b1e3078df75e0a993.jpg",
     "static/media/pencil.jpg": "/portfolio/static/media/pencil.509f1d6365c06785431a.jpg",
     "static/media/aarohan.jpg": "/portfolio/static/media/aarohan.7316045f4286893648d2.jpg",
     "static/media/vishal.jpg": "/portfolio/static/media/vishal.e46d4a2dd4f920f84f7b.jpg",
@@ -14,10 +15,10 @@
     "static/media/data_science.jpg": "/portfolio/static/media/data_science.22f71bc219f68c9d03eb.jpg",
     "index.html": "/portfolio/index.html",
     "main.26125bd4.css.map": "/portfolio/static/css/main.26125bd4.css.map",
-    "main.7b15d556.js.map": "/portfolio/static/js/main.7b15d556.js.map"
+    "main.dfdf3c94.js.map": "/portfolio/static/js/main.dfdf3c94.js.map"
   },
   "entrypoints": [
     "static/css/main.26125bd4.css",
-    "static/js/main.7b15d556.js"
+    "static/js/main.dfdf3c94.js"
   ]
 }
